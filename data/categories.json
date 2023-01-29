@@ -1,0 +1,41 @@
+[
+    {
+        "id": "01",
+        "name": "Breaking News",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aminotes.com%2F2018%2F03%2Fdata-communication-and-computer-networks-notes.html&psig=AOvVaw21E2-T5SPXxeydkLt1RBlf&ust=1667323869938000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCRgcv_ivsCFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": "02",
+        "name": "Regular News",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ezgolearning.com%2Fdata-communication-mcqs%2F&psig=AOvVaw2hn2JS_9lA6ey7aFs8VIhb&ust=1667324597594000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNCizaWCi_sCFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": "03",
+        "name": "International News",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aminotes.com%2F2018%2F03%2Fdata-communication-and-computer-networks-notes.html&psig=AOvVaw21E2-T5SPXxeydkLt1RBlf&ust=1667323869938000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCRgcv_ivsCFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": "04",
+        "name": "Sports",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aminotes.com%2F2018%2F03%2Fdata-communication-and-computer-networks-notes.html&psig=AOvVaw21E2-T5SPXxeydkLt1RBlf&ust=1667323869938000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCRgcv_ivsCFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": "05",
+        "name": "Entertainment",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aminotes.com%2F2018%2F03%2Fdata-communication-and-computer-networks-notes.html&psig=AOvVaw21E2-T5SPXxeydkLt1RBlf&ust=1667323869938000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCRgcv_ivsCFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": "06",
+        "name": "Culture",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aminotes.com%2F2018%2F03%2Fdata-communication-and-computer-networks-notes.html&psig=AOvVaw21E2-T5SPXxeydkLt1RBlf&ust=1667323869938000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCRgcv_ivsCFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": "07",
+        "name": "Arts",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.aminotes.com%2F2018%2F03%2Fdata-communication-and-computer-networks-notes.html&psig=AOvVaw21E2-T5SPXxeydkLt1RBlf&ust=1667323869938000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKCRgcv_ivsCFQAAAAAdAAAAABAE"
+    },
+    {
+        "id": "08",
+        "name": "All News"
+    }
+]
